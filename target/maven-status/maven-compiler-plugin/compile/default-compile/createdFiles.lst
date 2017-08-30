@@ -1,0 +1,9 @@
+com\huawei\dynamicdb\dao\TestDao.class
+com\huawei\dynamicdb\dynamicdbconfig\DynamicDataSourceHolder.class
+com\huawei\dynamicdb\Application.class
+com\huawei\dynamicdb\dynamicdbconfig\DynamicDataSource.class
+com\huawei\dynamicdb\mapper\ZwbmMapper.class
+com\huawei\dynamicdb\mapper\SzwbmMapper.class
+com\huawei\dynamicdb\action\TestAction.class
+com\huawei\dynamicdb\dynamicdbconfig\TargetDataSource.class
+com\huawei\dynamicdb\dynamicdbconfig\DynamicDataSourceAspect.class
